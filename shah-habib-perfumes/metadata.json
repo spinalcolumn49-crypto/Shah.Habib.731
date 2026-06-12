@@ -1,6 +1,0 @@
-{
-  "name": "Shah Habib Perfumes",
-  "description": "A luxury handcrafted fragrance boutique showcasing the finest signature collections, secure shopping experience, and exclusive VIP member registration.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
